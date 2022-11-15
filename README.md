@@ -1,4 +1,8 @@
-### Hi there 👋
+
+👋 Hi there i'm web developer
+
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
+
 
 <!--
 **knm8643/knm8643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
