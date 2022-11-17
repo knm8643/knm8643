@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/angular.js-F80000?style=flat-square&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JSP-F7DF1E?style=flat-square&logo=JSP&logoColor=white">
 </span>
 
 ##### I know this Skill 🤔
@@ -23,8 +24,11 @@
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
 </span>
 
-<!-- <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> -->
+##### Hmm.. Maybe I'm Studying 🌱
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 
+
+<!-- <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> -->
 <!--
 **knm8643/knm8643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
