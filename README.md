@@ -13,13 +13,18 @@
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JSP-F7DF1E?style=flat-square&logo=JSP&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
 </span>
-
+<span>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat-square&logo=TypeScript&logoColor=black">
+<img src="https://img.shields.io/badge/NuxtJS-6DB33F?style=flat-square&logo=Nuxt.js&logoColor=white">
+<img src="https://img.shields.io/badge/SCSS-F7DF1E?style=flat-square&logo=Sass&logoColor=black">
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+</span>
 ##### I know this Skill 🤔
 <span>
-<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
 </span>
