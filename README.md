@@ -26,6 +26,7 @@
 <span>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
+<img src="https://img.shields.io/badge/-React-blue?logo=react&logoColor=white">
 </span>
 
 ##### Hmm.. Maybe I'm Studying 🌱
