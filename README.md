@@ -30,9 +30,10 @@
 </span>
 
 ##### Hmm.. Maybe I'm Studying 🌱
+<span>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-
-
+<img src="https://img.shields.io/badge/WebSquare-007396?style=flat-square&logo=WebSquare&logoColor=white"/>
+</span>
 <!-- <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> -->
 <!--
 **knm8643/knm8643** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
