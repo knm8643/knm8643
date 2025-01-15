@@ -6,8 +6,6 @@
 새로운 도전과 배움을 좋아하며, 더 나은 결과를 만들어가기 위해 항상 소통과 협업에 중점을 두고 있습니다.  
 함께 더 나은 세상을 만들어가는 개발자가 되고자 끊임없이 노력하고 있습니다. 😊  
 
----
-
 ## 💬 사용 중인 기술
 저는 웹 애플리케이션 개발부터 백엔드까지 다양한 기술을 활용할 수 있습니다.
 
@@ -22,8 +20,6 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" alt="Oracle">
 </span>
 
----
-
 ### 🎨 프론트엔드 기술
 <span>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" alt="Vue.js">
@@ -33,9 +29,8 @@
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white" alt="SCSS">
 </span>
 
----
 
-### 🛠️ 기타 도구
+### 🛠️ 기타
 <span>
   <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white" alt="Redmine">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" alt="Jira">
